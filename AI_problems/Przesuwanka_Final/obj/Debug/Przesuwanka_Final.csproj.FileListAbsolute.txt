@@ -1,0 +1,14 @@
+E:\Studia ll Szkoła\SI\Przesuwanka_Final\Przesuwanka_Final\obj\Debug\Przesuwanka_Final.csprojResolveAssemblyReference.cache
+E:\Studia ll Szkoła\SI\Przesuwanka_Final\Przesuwanka_Final\obj\Debug\Przesuwanka_Final.csproj.CoreCompileInputs.cache
+E:\Studia ll Szkoła\SI\Przesuwanka_Final\Przesuwanka_Final\bin\Debug\Przesuwanka_Final.exe.config
+E:\Studia ll Szkoła\SI\Przesuwanka_Final\Przesuwanka_Final\bin\Debug\Przesuwanka_Final.exe
+E:\Studia ll Szkoła\SI\Przesuwanka_Final\Przesuwanka_Final\bin\Debug\Przesuwanka_Final.pdb
+E:\Studia ll Szkoła\SI\Przesuwanka_Final\Przesuwanka_Final\obj\Debug\Przesuwanka_Final.exe
+E:\Studia ll Szkoła\SI\Przesuwanka_Final\Przesuwanka_Final\obj\Debug\Przesuwanka_Final.pdb
+D:\DANE_LUBUNTU\Studia\Przesuwanka_Final\Przesuwanka_Final\bin\Debug\Przesuwanka_Final.exe.config
+D:\DANE_LUBUNTU\Studia\Przesuwanka_Final\Przesuwanka_Final\bin\Debug\Przesuwanka_Final.exe
+D:\DANE_LUBUNTU\Studia\Przesuwanka_Final\Przesuwanka_Final\bin\Debug\Przesuwanka_Final.pdb
+D:\DANE_LUBUNTU\Studia\Przesuwanka_Final\Przesuwanka_Final\obj\Debug\Przesuwanka_Final.csprojAssemblyReference.cache
+D:\DANE_LUBUNTU\Studia\Przesuwanka_Final\Przesuwanka_Final\obj\Debug\Przesuwanka_Final.csproj.CoreCompileInputs.cache
+D:\DANE_LUBUNTU\Studia\Przesuwanka_Final\Przesuwanka_Final\obj\Debug\Przesuwanka_Final.exe
+D:\DANE_LUBUNTU\Studia\Przesuwanka_Final\Przesuwanka_Final\obj\Debug\Przesuwanka_Final.pdb
